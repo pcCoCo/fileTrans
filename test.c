@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "work.h"
 int main()
 {
 	startUp();
